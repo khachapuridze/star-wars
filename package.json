@@ -1,0 +1,15 @@
+{
+  "name": "star-wars",
+  "version": "1.0.0",
+  "description": "star-wars",
+  "main": "index.js",
+  "scripts": {
+    "serve": "serve ./public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "giorgi.khatchapuridze.1@btu.edu.ge",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^11.2.0"
+  }
+}
